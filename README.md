@@ -12,8 +12,11 @@ Joue contre un autre joueur en ligne ou défie un agent IA. 🌟
 📁 serveur_client/ : Code du serveur (fichier serveur.py)
 
 📁 client/ : Code du client (fichier client.py)
-🚀 Exécution
+
+ 🌟 Exécution
+ 
 🖥️ Lancer le serveur :
+
 python serveur_client/serveur.py  
 
 🖥️ Lancer le client :
